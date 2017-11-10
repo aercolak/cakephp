@@ -15,7 +15,7 @@ App::uses('Debugger', 'Utility');
 ?>
 <h2>denemeee</h2>
 <p>
-	<a href="http://cakephp.org/changelogs/<?php echo Configure::version(); ?>"><?php echo __d('cake_dev', 'Read the changelog'); ?> </a>
+	fatih </a>
 </p>
 <?php
 if (Configure::read('debug') > 0):
